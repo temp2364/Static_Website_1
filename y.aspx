@@ -17,7 +17,7 @@
 
     <section id="about" class="about">
         <div class="container">
-            <h2>About Us</h2>
+            <h3>About yourself</h3>
             <p>We offer the best travel experiences, from serene beaches to majestic mountains. Let us make your journey unforgettable!</p>
         </div>
     </section>
